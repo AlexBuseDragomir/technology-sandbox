@@ -12,7 +12,8 @@ These files represent a personal learning journey through web development fundam
 ## Credits
 
 This code was written by following exactly the instructions provided by **SuperSimpleDev** on YouTube.
-* **Course**: [HTML & CSS Full Course - Beginner to Pro](https://www.youtube.com/@SuperSimpleDev)
+* **Channel**: [SuperSimpleDev - Youtube channel](https://www.youtube.com/@SuperSimpleDev)
+* **Course**: [HTML & CSS Full Course - Beginner to Pro](https://www.youtube.com/watch?v=G3e-cpL7ofc)
 * **Instructor**: SuperSimpleDev
 
 Everything in this project follows the specific instructions and coding standards demonstrated in the video course.
