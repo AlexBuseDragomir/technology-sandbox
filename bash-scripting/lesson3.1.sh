@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 myname="Alex"
 myage=30

@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 if [ -d /etc/pacman.d ]
 then
@@ -12,4 +12,4 @@ then
 	# Run the apt version of the command
 	sudo apt update
 	sudo apt dist-upgrade
-fi
+ifi

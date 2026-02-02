@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 files=$(ls)
 now=$(date)

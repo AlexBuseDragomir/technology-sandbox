@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 expr 10 + 30
 
