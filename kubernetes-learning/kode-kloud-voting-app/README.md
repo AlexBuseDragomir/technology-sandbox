@@ -1,6 +1,7 @@
 # Kubernetes Microservices Lab: Voting App
 
 This repository contains the implementation and configuration files based on the popular Kubernetes Voting App microservices project. 
+Keeping here the examples for personal reference, after completing the online course.  
 
 ## ⚠️ Attribution & Disclaimer
 This repository is for educational purposes only. I do not claim ownership of the original application logic or architecture. 
