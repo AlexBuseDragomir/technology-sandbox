@@ -19,6 +19,6 @@ This work is based on the following resources:
 
 <img src="https://github.com/user-attachments/assets/ff194806-ca09-478b-9720-730ec01dc96b" width="600" alt="Dashboard View" />
 
-<img src="https://github.com/user-attachments/assets/633b70e4-3c3f-4862-9f38-5bfb3cd7cb16" width="350" padding-left=10px alt="Mobile/Sidebar View" />
+<img src="https://github.com/user-attachments/assets/633b70e4-3c3f-4862-9f38-5bfb3cd7cb16" width="350" padding=10px alt="Mobile/Sidebar View" />
 
-<img src="https://github.com/user-attachments/assets/90d4ccce-72ee-4f3b-b080-0869e4e7e323" width="700" alt="Full Interface" />
+<img src="https://github.com/user-attachments/assets/90d4ccce-72ee-4f3b-b080-0869e4e7e323" width="600" alt="Full Interface" />
