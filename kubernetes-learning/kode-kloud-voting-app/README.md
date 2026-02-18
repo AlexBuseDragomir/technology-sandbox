@@ -17,8 +17,8 @@ This work is based on the following resources:
 
 ## Printscreens of runnign app using GitHub codespaces and miniqube
 
-<img width="875" height="660" alt="Screenshot 2026-02-18 112932" src="https://github.com/user-attachments/assets/ff194806-ca09-478b-9720-730ec01dc96b" />
+<img src="https://github.com/user-attachments/assets/ff194806-ca09-478b-9720-730ec01dc96b" width="600" alt="Dashboard View" />
 
-<img width="669" height="916" alt="Screenshot 2026-02-18 112947" src="https://github.com/user-attachments/assets/633b70e4-3c3f-4862-9f38-5bfb3cd7cb16" />
+<img src="https://github.com/user-attachments/assets/633b70e4-3c3f-4862-9f38-5bfb3cd7cb16" width="350" alt="Mobile/Sidebar View" />
 
-<img width="1295" height="769" alt="Screenshot 2026-02-18 112958" src="https://github.com/user-attachments/assets/90d4ccce-72ee-4f3b-b080-0869e4e7e323" />
+<img src="https://github.com/user-attachments/assets/90d4ccce-72ee-4f3b-b080-0869e4e7e323" width="700" alt="Full Interface" />
