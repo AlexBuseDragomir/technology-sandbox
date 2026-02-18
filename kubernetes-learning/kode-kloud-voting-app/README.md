@@ -20,7 +20,8 @@ This work is based on the following resources:
 <table border="0">
   <tr>
     <td><img src="https://github.com/user-attachments/assets/ff194806-ca09-478b-9720-730ec01dc96b" width="400"></td>
-    <td width="50"></td> <td><img src="https://github.com/user-attachments/assets/633b70e4-3c3f-4862-9f38-5bfb3cd7cb16" width="300"></td>
+    <td width="20"></td> 
+    <td><img src="https://github.com/user-attachments/assets/633b70e4-3c3f-4862-9f38-5bfb3cd7cb16" width="300"></td>
   </tr>
 </table>
 
