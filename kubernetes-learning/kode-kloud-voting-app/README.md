@@ -14,3 +14,11 @@ This work is based on the following resources:
 ### Original Application Logic
 * **Mumshad Implementation:** [mmumshad/example-voting-app](https://github.com/mmumshad/example-voting-app)
 * **Original Docker Sample:** [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app)
+
+## Printscreens of runnign app using GitHub codespaces and miniqube
+
+<img width="875" height="660" alt="Screenshot 2026-02-18 112932" src="https://github.com/user-attachments/assets/ff194806-ca09-478b-9720-730ec01dc96b" />
+
+<img width="669" height="916" alt="Screenshot 2026-02-18 112947" src="https://github.com/user-attachments/assets/633b70e4-3c3f-4862-9f38-5bfb3cd7cb16" />
+
+<img width="1295" height="769" alt="Screenshot 2026-02-18 112958" src="https://github.com/user-attachments/assets/90d4ccce-72ee-4f3b-b080-0869e4e7e323" />
