@@ -17,7 +17,6 @@ This work is based on the following resources:
 
 
 ## ▶️ Printscreens of running the app using GitHub codespaces and miniqube
-
 <table border="0">
   <tr>
     <td><img src="https://github.com/user-attachments/assets/ff194806-ca09-478b-9720-730ec01dc96b" width="600"></td>
