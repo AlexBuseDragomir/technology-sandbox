@@ -15,7 +15,8 @@ This work is based on the following resources:
 * **Mumshad Implementation:** [mmumshad/example-voting-app](https://github.com/mmumshad/example-voting-app)
 * **Original Docker Sample:** [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app)
 
-## Printscreens of runnign app using GitHub codespaces and miniqube
+
+## ▶️ Printscreens of running the app using GitHub codespaces and miniqube
 
 <table border="0">
   <tr>
