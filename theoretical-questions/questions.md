@@ -325,9 +325,9 @@ Answer: Pipeline as Code means defining your CI/CD workflow in a configuration f
 JAVA 7, 11, 17
 
 1. What are the most significant features introduced in Java 8 compared to earlier versions?
--------------------
+
 Answer: Java 8 introduced a paradigm shift toward functional programming. The main features include:
----
+
 Lambda Expressions: Anonymous functions that simplify code, especially when working with functional interfaces.
 
 Stream API: Allows functional-style, declarative operations (like map, filter, and reduce) on collections of objects.
@@ -337,12 +337,11 @@ Optional Class: A container object used to represent the presence or absence of 
 Date and Time API (java.time): A new, thread-safe, and immutable API for handling dates and times.
 
 Default Methods: The ability to add implemented methods to interfaces without breaking existing implementations.
--------------------
 
 2. What notable features were added in Java 11 for developers migrating from Java 8?
 
 Answer: Java 11 (an LTS release) focused on standardization and operational improvements. Key additions include:
----
+
 New HTTP Client API: A modern, standardized, and fully asynchronous HTTP client supporting HTTP/1.1, HTTP/2, and WebSockets.
 
 Local-Variable Syntax for Lambda Parameters: Allows the use of var in lambda expressions, ensuring consistency with local variables while enabling the use of annotations on parameters.
@@ -350,12 +349,11 @@ Local-Variable Syntax for Lambda Parameters: Allows the use of var in lambda exp
 New String Methods: Utility methods like isBlank(), lines(), strip(), and repeat().
 
 Single-File Source-Code Programs: The ability to run a single Java source file directly using the java command without explicit compilation.
--------------------
 
 3. As an LTS release, what major language features does Java 17 bring to the table compared to Java 11?
 
 Answer: Java 17 introduced several language enhancements focused on reducing boilerplate and improving design safety. The main features are:
----
+
 Records: A concise way to declare immutable data carrier classes, automatically generating constructors, getters, equals(), hashCode(), and toString().
 
 Text Blocks: Multi-line string literals (""") that eliminate the need for cumbersome escape sequences and string concatenation.
